@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.fe502005.css","mappings":"AAAA,EAGI,qBAAsB,CAFtB,QAAS,CACT,SAEJ,CAEA,GACI,eACJ,CAEA,KACI,eACJ","sources":["reset.css"],"sourcesContent":["* {\r\n    margin: 0;\r\n    padding: 0;\r\n    box-sizing: border-box;\r\n}\r\n\r\nul {\r\n    list-style: none;\r\n}\r\n\r\n.big {\r\n    font-size: 100px;\r\n}"],"names":[],"sourceRoot":""}
